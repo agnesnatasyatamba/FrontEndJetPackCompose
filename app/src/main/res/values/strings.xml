@@ -1,0 +1,7 @@
+<resources>
+    <string name="AppsNess">FrontEnd</string>
+    <string name="Home">Home</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="detailList">DetailList</string>
+</resources>
